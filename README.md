@@ -42,6 +42,21 @@ This project's goal is to create visual representations of Amazon orders data us
 * **Set Up QuickSight:** Get QuickSight ready so it can talk to your S3 bucket. Think of it as giving QuickSight a key to unlock the bucket and look at your data. This way, QuickSight can make your Amazon data look nice and useful.
  # Installation
 You don't have to install AWS QuickSight like a regular program because it's on the internet. But, you do need special permission to use it, kind of like a key to open the door.
+# Usage
+
+**To get going with this project, do this:**
+
+* **Get Data Ready** Make sure your Amazon orders are ready and put them in an S3 bucket.
+
+* **Open QuickSight's Door:** Set up QuickSight so it can look inside your S3 bucket. This is like giving QuickSight permission to see your data.
+
+* **Tell QuickSight about the Data:** Make a QuickSight dataset using your Amazon orders from the S3 bucket. It's like making a QuickSight-friendly version of your data.
+
+* **Create Visuals:** Build pretty pictures and interactive boards using QuickSight's easy-to-use tool. Choose what kind of graphs or tables you want.
+
+* **Share the Fun:** You can show your cool dashboard to others. You could even put it on a website for easy looking.
+
+
 * # Configuration
 
 **To set up AWS QuickSight and S3, do the following:**
