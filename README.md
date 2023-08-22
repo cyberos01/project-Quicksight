@@ -64,5 +64,20 @@ This project's goal is to create visual representations of Amazon orders data us
 * **Put Data in the Right Place:** Keep your data in a special online folder called an S3 bucket. QuickSight needs to know where to find it.
 
 * **Say Hi to QuickSight:** Make sure QuickSight has permission to check out your data in the S3 bucket. It's like letting QuickSight in.
+* #  Creating QuickSight Dashboard
+
+**To make a QuickSight dashboard to show your Amazon orders, do this:**
+
+* **Get Inside QuickSight:** Open up QuickSight and go to the place where you can make analyses or dashboards.
+
+* **Start a New Thing:** Make a fresh analysis or dashboard. Think of this as starting a new project.
+
+* **Add Your Amazon Orders:**  Tell QuickSight where your Amazon orders are by adding them as a data source.
+
+* **Pick How to Show Stuff:** Choose how you want your data to look. You can use charts, tables, or graphs. Then, pick what details you want to show, like numbers or names.
+
+* **Make It Look Nice:** Customize how the dashboard looks. Change colors, put things in the right spots, and make it easy to read.
+
+* **Keep It Safe:** Save your dashboard. You can also share it with others so they can see it too. You might even put it on a website!
 
 
