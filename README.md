@@ -26,6 +26,6 @@ This project's goal is to create visual representations of Amazon orders data us
 * # Technologies
 **The project uses these tools:**
 
-**AWS QuickSight:** This is like a smart tool from Amazon's web services that helps us make pictures and graphs from data. It also lets us make special dashboards that we can play with.
+* **AWS QuickSight:** This is like a smart tool from Amazon's web services that helps us make pictures and graphs from data. It also lets us make special dashboards that we can play with.
 
-**AWS S3:** This is like a big online storage where we can put things and take them out whenever we want. In this case, we're keeping our Amazon orders data there.
+* **AWS S3:** This is like a big online storage where we can put things and take them out whenever we want. In this case, we're keeping our Amazon orders data there.
