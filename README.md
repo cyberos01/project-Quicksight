@@ -41,4 +41,4 @@ This project's goal is to create visual representations of Amazon orders data us
 
 * **Set Up QuickSight:** Get QuickSight ready so it can talk to your S3 bucket. Think of it as giving QuickSight a key to unlock the bucket and look at your data. This way, QuickSight can make your Amazon data look nice and useful.
 
-Just make sure you've got these things set up, and you're ready to go!
+
