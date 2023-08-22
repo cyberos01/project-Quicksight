@@ -13,8 +13,7 @@ This project's goal is to create visual representations of Amazon orders data us
 - [Configuration](#Configuration)
 - [Data Preparation](#DataPreparation)
 - [Creating QuickSight Dashboard](#CreatingQuickSightDashboard)
-- [Contributing](#Contributing)
-- [License](#License)
+
 # Features
 * **Show Data in Different Ways:** Display Amazon orders data using different styles like charts, tables, and graphs.
 
