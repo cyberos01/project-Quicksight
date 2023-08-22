@@ -40,5 +40,16 @@ This project's goal is to create visual representations of Amazon orders data us
 * **S3 Bucket:** Make a place online where you can put your Amazon data. It's like an organized folder for your stuff.
 
 * **Set Up QuickSight:** Get QuickSight ready so it can talk to your S3 bucket. Think of it as giving QuickSight a key to unlock the bucket and look at your data. This way, QuickSight can make your Amazon data look nice and useful.
+* # Configuration
+
+**To set up AWS QuickSight and S3, do the following:**
+
+* **Make a Storage Spot:** Create a special online container called an S3 bucket. This is where your Amazon orders will be kept safe and tidy.
+
+* **Give QuickSight Access:** Allow QuickSight to look inside the S3 bucket. Think of it as opening a door for QuickSight. You can do this by setting up special permissions using something called AWS IAM.
+
+* **QuickSight Setup:** Create an account on QuickSight, like making your own profile. Then, tell QuickSight that it's allowed to use your AWS account too.
+
+* **Connect the Dots:** Make QuickSight talk to your S3 bucket. It's like telling QuickSight where to find your Amazon orders. This way, QuickSight can show your orders in a nice way.
 
 
